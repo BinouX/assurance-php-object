@@ -1,0 +1,7 @@
+-Permettre au conseiller de créer modifier et visualiser un client.
+
+-Permettre au conseiller de pouvoir lui ajouter une assurance une assurance sur un produit
+c'est à dire un client peut avoir 0 ou plusieurs voitures, il faut que le conseiller puisse lui vendre
+une assurance pour chaqu'une des voitures.
+
+-Jeudi, un conseiller peut vendre des assurances vie et décès
